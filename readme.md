@@ -12,5 +12,5 @@ $ echo "PORT=8080" > .env
 ```
 3. run the app
 ```bash
-$ nodemon app.js
+$ nodemon src/app.js
 ```
